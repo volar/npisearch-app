@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Livewire\NpiSearch;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +17,11 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+/** 
+ * NPI API
+ * Gets results based on the Input query params like
+ * NPI Number, First Name, Last Name, Organization Name, City, State, Postal Code
+ */
+
+ Route::get('/npi-search', NpiSearch::class);
