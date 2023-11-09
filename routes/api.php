@@ -2,6 +2,7 @@
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\NpiResultsController;
 
 /*
 |--------------------------------------------------------------------------
@@ -17,3 +18,10 @@ use Illuminate\Support\Facades\Route;
 Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
+
+/** 
+ * NPI API
+ * Gets results based on the Input query params like
+ * NPI Number, First Name, Last Name, Organization Name, City, State, Postal Code
+ */
+Route::get('npi/', NpiResultsController::class);
