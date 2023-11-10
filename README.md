@@ -52,6 +52,8 @@ The results table will only display basic information so user has the option to 
 -   Use Cache to store the results
 -   Switch to bootstrap layout
 -   Add E2E/Unit/Components tests
+-   Add more validation to the request
+-   Limit to 1200
 
 ## Refactoring
 
