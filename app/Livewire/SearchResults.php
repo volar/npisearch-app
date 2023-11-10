@@ -9,18 +9,21 @@ class SearchResults extends Component
 {
     public $data;
 
-    public function mount(NpiSearch $jsonData)
+    public function mount()
     {
-        
-        $jsonData = json_decode(file_get_contents('sampleData.json'), TRUE);
+        $sentData = session()->get('data');
 
-        //dd($jsonData['results']);
-        $this->data = $jsonData['results'];
-       
+        if (isset($sentData['results'])) {
+            $this->data = $sentData['results'];
+        } else {
+            $this->data = [];
+        }  
     }
 
     public function render()
     {
+        session()->forget('search_params');
+        session()->forget('data');
         return view('livewire.search-results');
     }
 }

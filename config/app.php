@@ -185,4 +185,67 @@ return [
         // 'Example' => App\Facades\Example::class,
     ])->toArray(),
 
+    /*
+    |--------------------------------------------------------------------------
+    | States
+    |--------------------------------------------------------------------------
+    |
+    | This array of states will be used to populate the state select box
+    | in the search form.
+    |
+    */
+    
+    'states' => [
+        'california' => 'California',
+        'texas' => 'Texas',
+        'new_york' => 'New York',
+        'florida' => 'Florida',
+        'illinois' => 'Illinois',
+        'arizona' => 'Arizona',
+        'ohio' => 'Ohio',
+        'pennsylvania' => 'Pennsylvania',
+        'georgia' => 'Georgia',
+        'north_carolina' => 'North Carolina',
+        'michigan' => 'Michigan',
+        'new_jersey' => 'New Jersey',
+        'virginia' => 'Virginia',
+        'washington' => 'Washington',
+        'massachusetts' => 'Massachusetts',
+        'tennessee' => 'Tennessee',
+        'indiana' => 'Indiana',
+        'missouri' => 'Missouri',
+        'maryland' => 'Maryland',
+        'wisconsin' => 'Wisconsin',
+        'colorado' => 'Colorado',
+        'minnesota' => 'Minnesota',
+        'south_carolina' => 'South Carolina',
+        'alabama' => 'Alabama',
+        'louisiana' => 'Louisiana',
+        'kentucky' => 'Kentucky',
+        'oregon' => 'Oregon',
+        'oklahoma' => 'Oklahoma',
+        'connecticut' => 'Connecticut',
+        'utah' => 'Utah',
+        'iowa' => 'Iowa',
+        'nevada' => 'Nevada',
+        'arkansas' => 'Arkansas',
+        'mississippi' => 'Mississippi',
+        'kansas' => 'Kansas',
+        'new_mexico' => 'New Mexico',
+        'nebraska' => 'Nebraska',
+        'west_virginia' => 'West Virginia',
+        'idaho' => 'Idaho',
+        'hawaii' => 'Hawaii',
+        'new_hampshire' => 'New Hampshire',
+        'maine' => 'Maine',
+        'rhode_island' => 'Rhode Island',
+        'montana' => 'Montana',
+        'delaware' => 'Delaware',
+        'south_dakota' => 'South Dakota',
+        'north_dakota' => 'North Dakota',
+        'alaska' => 'Alaska',
+        'district_of_columbia' => 'District of Columbia',
+        'vermont' => 'Vermont',
+        'wyoming' => 'Wyoming'
+    ],
 ];

@@ -24,6 +24,10 @@ The results table will only display basic information so user has the option to 
 -   If using docker and have docker desktop running
 -   Run `./vendor/bin/sail up`
 
+## Accessing the app by visiting
+
+`http://localhost`
+
 ## Api Endpoints
 
 -   `/api/npi` - search npi registry by query params.
@@ -41,3 +45,19 @@ The results table will only display basic information so user has the option to 
 
 -   [NPI Registry API DOCS](https://npiregistry.cms.hhs.gov/api-page).
 -   [Details view](https://npiregistry.cms.hhs.gov/provider-view/{npi}).
+
+## Improvements / Todo's
+
+-   Add pagination
+-   Use Cache to store the results
+-   Switch to bootstrap layout
+-   Add E2E/Unit/Components tests
+
+## Refactoring
+
+-   Change how we call the third party api
+-   Change the way how we handle the data
+-   Use a service layer to wrap the third party api call
+-   Use a repository layer to handle the data access
+-   Use a transformer to transform the data from the third party api
+-   pass the request object to the service layer instead of the query params

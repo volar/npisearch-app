@@ -7,37 +7,67 @@ use Illuminate\Support\Facades\Http;
 use Livewire\Attributes\Rule;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
+use Illuminate\Support\Facades\Cache;
 
-// move this to Livewire form and validate
 class NpiSearchForm extends Component
 {
-    #[Rule('required|string|min:3|max:10')]
+    #[Rule('nullable|string|min:3|max:10')]
     public $firstName;
-    #[Rule('string')]
+    #[Rule('nullable|string')]
     public $lastName;
-    #[Rule('numeric|min:10|max:10')]
+    #[Rule('nullable|string|min:10|max:10')]
     public $npiNumber;
-    #[Rule('string|min:5')]
+    #[Rule('nullable|string|min:5')]
     public $taxonomyDescription;
-    #[Rule('string')]
+    #[Rule('nullable|string')]
     public $city;
-    #[Rule('string|min:3')]
+    #[Rule('nullable|string|min:3')]
     public $state;
-    #[Rule('string|min:5')]
+    #[Rule('nullable|string|min:2|max:9')]
     public $zip;
+
     public $limit;
     public $skip;
 
     public $results = [];
 
-    public $message = "hey there";
+    public $formAlert = "";
+
+    public $data = [];
+
+    public function mount($query = []) {
+        $this->firstName = $query['firstName'] ?? '';
+        $this->lastName = $query['lastName'] ?? '';
+        $this->npiNumber = $query['number'] ?? '';
+        $this->taxonomyDescription = $query['taxonomyDescription'] ?? '';
+        $this->city = $query['city'] ?? '';
+        $this->state = $query['state'] ?? '';
+        $this->zip = $query['zip'] ?? '';
+    }
 
     public function render()
     {
-
         return view('livewire.npi-search-form', [
             'results' => $this->results,
+            'formAlert' => $this->formAlert,
         ]);
+    }
+
+    public function updated($propertyName)
+    {
+        $this->validateOnly($propertyName);
+    }
+
+    public function resetForm()
+    {
+        $this->reset();
+        $this->resetValidation();
+        session()->forget('search_params');
+    }
+
+    public function selectState($state)
+    {
+        $this->state = $state;
     }
 
     public function submit()
@@ -48,36 +78,77 @@ class NpiSearchForm extends Component
 
         $query = [
             'number' => $this->npiNumber,
-            'taxonomy_description' => $this->taxonomyDescription,
-            'first_name' => $this->firstName,
-            'last_name' => $this->lastName,
+            'taxonomyDescription' => $this->taxonomyDescription,
+            'firstName' => $this->firstName,
+            'lastName' => $this->lastName,
             'city' => $this->city,
             'state' => $this->state,
-            'postal_code' => $this->zip,
-            'limit' => $this->limit,
-            'skip' => $this->skip,
-            'pretty' => true, // If you want a pretty-formatted JSON response
-            'version' => '2.1', // Specify the API version
+            'zip' => $this->zip,
         ];
 
-        $request = Request::create('/api/npiapi', 'GET', $query);
-        $request->headers->set('Accept', 'application/json');
-        $response = app()->handle($request);
+        // at least one field must be set
+        if(empty($query['number']) && empty($query['city']) && empty($query['state']) && empty($query['zip']) && empty($query['firstName']) && empty($query['lastName'])) {
+            $this->formAlert = "Type something to search. Try a name or location.";
+        } else {
+            $dataResponse = $this->fetchData($query);
+        }
 
-    
-        //$response = Route::dispatch($request);
-        //$response = app()->handle($request);
+       
 
-        //$this->results = Http::get('http://127.0.0.1/api/npiapi', $query)->json();
-
+        //dd($dataResponse);
         
+        if (empty($dataResponse['results'])) {
+            session()->put('data', []);
+            $this->formAlert = "Please modify your search criteria";
+            $this->results = [];
+            return [];
+        } else {
+            $this->formAlert = "";
+            $this->results = $dataResponse['results'];
+            $this->data = $dataResponse;
+            session()->put('data', $this->data);
+        }
 
+            // Store search parameters in session
+        session()->put('search_params', $query);
+        return redirect()->route('search')->with('query', $query);
+        
+    }
 
-        //$this->results = Http::get('http://localhost/api/npiapi', $query)->json();
+    private function fetchData($params){
 
-        // the input fields shoud be validated before making the API request
+    // TODO: use Cache to store results
+    //return Cache::remember('results', 60 * 5, function() use ($params) {
+        $baseUrl = 'https://npiregistry.cms.hhs.gov/api/?';
 
-        // Make the API request
+        $urlParams = [
+            'number' => $params['number'],
+            'enumeration_type' => '', 
+            'taxonomy_description' => $params['taxonomyDescription'],
+            'name_purpose' => '',
+            'first_name' => $params['firstName'],
+            'use_first_name_alias' => '',
+            'last_name' => $params['lastName'],
+            'organization_name' => '',
+            'address_purpose' => '',
+            'city' => $params['city'],
+            'state' => $params['state'],
+            'postal_code' => $params['zip'],
+            'country_code' => '',
+            'limit' => '50',
+            'skip' => '',
+            'pretty' => '',
+            'version' => '2.1'
+        ];
 
+        $apiUrl = $baseUrl . http_build_query($urlParams);
+
+        try {
+            $response = Http::get($apiUrl);
+            return $response->json();
+        } catch (\Exception $e) {
+            $this->formAlert = "Something went wrong";
+            return [];
+        }
     }
 }

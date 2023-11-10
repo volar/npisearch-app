@@ -1,4 +1,9 @@
 <div>
+    @if ($formAlert !== '')
+        <div class="alert alert-success">
+            {{ $formAlert }}
+        </div>
+    @endif
     <form wire:submit.prevent="submit" class="p-4 mx-auto max-w-md space-y-4">
         <div class="form-group">
             <label for="firstName">First Name
@@ -36,6 +41,21 @@
                 @error('city') <span class="error">{{ $message }}</span> @enderror
             </label>
 
+            {{-- <div x-data="{ open: false }" class="form-group">
+                <label for="state">State</label>
+                <div class="dropdown">
+                    <button @click="open = !open" class="btn btn-secondary dropdown-toggle" type="button" id="stateDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        {{ ucfirst($state) ?: 'Select State' }}
+                    </button>
+                    <div x-show="open" @click.away="open = false" class="dropdown-menu" aria-labelledby="stateDropdown">
+                        @foreach(config('app.states') as $key => $value)
+                            <button class="dropdown-item" type="button" wire:click="selectState('{{ $key }}')">{{ $value }}</button>
+                        @endforeach
+                    </div>
+                </div>
+                @error('state') <span class="error">{{ $message }}</span> @enderror
+            </div> --}}
+
             <label for="zip">ZIP
                 <input wire:model="zip" type="text" class="form-control" id="zip" placeholder="ZIP">
                 @error('zip') <span class="error">{{ $message }}</span> @enderror
@@ -44,9 +64,9 @@
         <br \>
         <div class="form-group">
             <button type="submit" class="btn btn-primary" wire:confirm="Are you sure you want to delete this post?">Search</button>
+            <button type="button" class="btn btn-secondary" wire:click="resetForm">Clear</button>
         </div>
 
         <div wire:loading wire:target="results">Fetching data...</div>
     </form>
 </div>
-

@@ -11,6 +11,11 @@
             </tr>
         </thead>
         <tbody>
+        @if (empty($data))
+            <tr class="text-center">
+                <td colspan="6" >No data found.</td>
+            </tr>
+        @else
             @foreach ($data as $row)
                 <tr>
                     <td>
@@ -63,6 +68,7 @@
                     </td>
                 </tr>
             @endforeach 
+        @endif
         </tbody>
     </table>
 </div>

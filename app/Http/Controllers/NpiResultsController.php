@@ -67,7 +67,7 @@ class NpiResultsController extends Controller
             return response()->json(['error' => 'Type something to search. Try a name or location'], 400);
         }
        
-        // disable cache for now
+        //TODO: Use cache
         //return Cache::remember('results', 60 * 5, function() use ($query) {
             $baseUrl = 'https://npiregistry.cms.hhs.gov/api/?';
 
@@ -105,5 +105,13 @@ class NpiResultsController extends Controller
                 ], 500);
             }
        //});
+    }
+
+    private function ParseData($response) {
+        // parse the data
+        $data = $response->json();
+
+        // TODO
+        // only return the datapoints that we need
     }
 }

@@ -2,6 +2,8 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Livewire\NpiSearch;
+use App\Livewire\NpiSearchForm;
+use App\Livewire\SearchResults;
 
 /*
 |--------------------------------------------------------------------------
@@ -14,17 +16,15 @@ use App\Livewire\NpiSearch;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
-
 /** 
  * NPI API
  * Gets results based on the Input query params like
  * NPI Number, First Name, Last Name, Organization Name, City, State, Postal Code
  */
 
-Route::get('/npi', NpiSearch::class);
+
+Route::get('/', NpiSearch::class)->name('search');
+
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
