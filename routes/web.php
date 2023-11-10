@@ -24,4 +24,7 @@ Route::get('/', function () {
  * NPI Number, First Name, Last Name, Organization Name, City, State, Postal Code
  */
 
- Route::get('/npi-search', NpiSearch::class);
+Route::get('/npi-search', NpiSearch::class);
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');

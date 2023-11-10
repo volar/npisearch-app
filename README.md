@@ -14,6 +14,13 @@ A user is be able to search by:
 
 The results table will only display basic information so user has the option to click the NPI number to get to details view.
 
+## Installation
+
+-   Clone the repo
+-   cd into the project directory
+-   If using docker and have docker desktop running
+-   Run `./vendor/bin/sail up`
+
 ## Api Endpoints
 
 -   `/api/npi` - search npi registry by query params.
