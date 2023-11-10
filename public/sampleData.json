@@ -1,0 +1,3552 @@
+{
+    "result_count": 50,
+    "results": [
+        {
+            "created_epoch": "1177362431000",
+            "enumeration_type": "NPI-1",
+            "last_updated_epoch": "1183948145000",
+            "number": "1073731121",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "103 E READ ST",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212022403",
+                    "telephone_number": "410-234-0007",
+                    "fax_number": "410-659-1943"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "103 E READ ST",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212022403",
+                    "telephone_number": "410-234-0007",
+                    "fax_number": "410-659-1943"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "first_name": "STEFFI",
+                "last_name": ".RESNICK",
+                "middle_name": "BETH",
+                "credential": "Ph.D.",
+                "sole_proprietor": "NO",
+                "gender": "F",
+                "enumeration_date": "2007-04-23",
+                "last_updated": "2007-07-08",
+                "status": "A",
+                "name_prefix": "Dr.",
+                "name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "231H00000X",
+                    "taxonomy_group": "",
+                    "desc": "Audiologist",
+                    "state": "MD",
+                    "license": "0176",
+                    "primary": false
+                },
+                {
+                    "code": "237600000X",
+                    "taxonomy_group": "",
+                    "desc": "Audiologist-Hearing Aid Fitter",
+                    "state": "MD",
+                    "license": "0176",
+                    "primary": false
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "01",
+                    "desc": "Other (non-Medicare)",
+                    "issuer": "MAMSI",
+                    "identifier": "32448",
+                    "state": "MD"
+                },
+                {
+                    "code": "01",
+                    "desc": "Other (non-Medicare)",
+                    "issuer": "CIGNA",
+                    "identifier": "428144001",
+                    "state": "MD"
+                },
+                {
+                    "code": "01",
+                    "desc": "Other (non-Medicare)",
+                    "issuer": "AETNA",
+                    "identifier": "4673985",
+                    "state": "MD"
+                },
+                {
+                    "code": "01",
+                    "desc": "Other (non-Medicare)",
+                    "issuer": "UNITED HEALTHCARE",
+                    "identifier": "521456813",
+                    "state": "MD"
+                },
+                {
+                    "code": "01",
+                    "desc": "Other (non-Medicare)",
+                    "issuer": "CAREFIRST BC BS MD",
+                    "identifier": "H412S",
+                    "state": "MD"
+                },
+                {
+                    "code": "01",
+                    "desc": "Other (non-Medicare)",
+                    "issuer": "CAREFIRST BC BS NCA",
+                    "identifier": "J210",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1669930750000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1669930750000",
+            "number": "1124738083",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "4303 LIBERTY HEIGHTS AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212077551",
+                    "telephone_number": "410-940-1160"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "4303 LIBERTY HEIGHTS AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212077551",
+                    "telephone_number": "410-940-1160"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "1 ADORING ADULT CARE",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2022-12-01",
+                "last_updated": "2022-12-01",
+                "certification_date": "2022-12-01",
+                "status": "A",
+                "authorized_official_first_name": "TA'SHAY",
+                "authorized_official_last_name": "ARRINGTON",
+                "authorized_official_telephone_number": "4109401160",
+                "authorized_official_title_or_position": "Owner",
+                "authorized_official_name_prefix": "Ms.",
+                "authorized_official_credential": "LPN"
+            },
+            "taxonomies": [
+                {
+                    "code": "310400000X",
+                    "taxonomy_group": "",
+                    "desc": "Assisted Living Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1691169963000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1695926508000",
+            "number": "1174205538",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "3701 OLD COURT RD STE 24B",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212083909",
+                    "telephone_number": "443-629-2526"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "3701 OLD COURT RD STE 24B",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212083909",
+                    "telephone_number": "443-629-2526"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "1 STOP RECOVERY SERVICES",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2023-08-04",
+                "last_updated": "2023-09-28",
+                "certification_date": "2023-09-28",
+                "status": "A",
+                "authorized_official_first_name": "JANIE",
+                "authorized_official_last_name": "CAUTHORNE",
+                "authorized_official_telephone_number": "4436292526",
+                "authorized_official_title_or_position": "Owner"
+            },
+            "taxonomies": [
+                {
+                    "code": "261QM0801X",
+                    "taxonomy_group": "",
+                    "desc": null,
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "251S00000X",
+                    "taxonomy_group": "",
+                    "desc": "Community/Behavioral Health",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1459977516000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1459977516000",
+            "number": "1578927489",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "8028 RITCHIE HWY",
+                    "address_2": "SUITE 210B",
+                    "city": "PASADENA",
+                    "state": "MD",
+                    "postal_code": "211221075",
+                    "telephone_number": "410-766-1995",
+                    "fax_number": "410-761-6095"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1046 NORTH POINT RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212243307",
+                    "telephone_number": "410-282-0100",
+                    "fax_number": "410-284-5693"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "1046 NORTH POINT, LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2016-04-06",
+                "last_updated": "2016-04-06",
+                "status": "A",
+                "authorized_official_first_name": "BRIAN",
+                "authorized_official_last_name": "FINGLASS",
+                "authorized_official_telephone_number": "4107661995",
+                "authorized_official_title_or_position": "VP of Finance",
+                "authorized_official_name_prefix": "Mr.",
+                "authorized_official_name_suffix": "--",
+                "authorized_official_credential": "CFO"
+            },
+            "taxonomies": [
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": "MD",
+                    "license": "03-060",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "510395900",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1196436208000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1271796230000",
+            "number": "1972785004",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "1046 OLD NORTHPOINT ROAD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212243307",
+                    "telephone_number": "410-766-1995"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1046 OLD NORTHPOINT RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212243307",
+                    "telephone_number": "410-282-0100"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "1046 NORTH POINT, LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2007-11-30",
+                "last_updated": "2010-04-20",
+                "status": "A",
+                "authorized_official_first_name": "BRIAN",
+                "authorized_official_last_name": "FINGLASS",
+                "authorized_official_telephone_number": "4107661995",
+                "authorized_official_title_or_position": "VP of Finance/CFO",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": "MD",
+                    "license": "03-060",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "322302700",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1461266314000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1504801960000",
+            "number": "1235583600",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "115 E MELROSE AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212122945",
+                    "telephone_number": "410-435-9073"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "115 E MELROSE AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212122945",
+                    "telephone_number": "410-435-9073"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "115 EAST MELROSE AVENUE OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2016-04-21",
+                "last_updated": "2017-09-07",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "225X00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Occupational Therapist",
+                    "state": "MD",
+                    "license": "30044",
+                    "primary": false
+                },
+                {
+                    "code": "225100000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Physical Therapist",
+                    "state": "MD",
+                    "license": "30044",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "442156600",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1196189160000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1452282521000",
+            "number": "1487836953",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "101 E STATE ST",
+                    "city": "KENNETT SQUARE",
+                    "state": "PA",
+                    "postal_code": "193483109",
+                    "telephone_number": "610-925-4436",
+                    "fax_number": "610-925-4351"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "115 E MELROSE AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212122945",
+                    "telephone_number": "410-435-9073",
+                    "fax_number": "410-435-6824"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "115 EAST MELROSE AVENUE OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2007-11-27",
+                "last_updated": "2016-01-08",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": "MD",
+                    "license": "30-044",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "413969100",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1616459069000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1616459069000",
+            "number": "1043896814",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "14C 53RD ST",
+                    "city": "BROOKLYN",
+                    "state": "NY",
+                    "postal_code": "112322644"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "115 E MELROSE AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212122945",
+                    "telephone_number": "877-567-0402"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "115 EAST MELROSE OPCO LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2021-03-22",
+                "last_updated": "2021-03-22",
+                "certification_date": "2021-03-22",
+                "status": "A",
+                "authorized_official_first_name": "SAM",
+                "authorized_official_last_name": "STERN",
+                "authorized_official_telephone_number": "8775670402",
+                "authorized_official_title_or_position": "CFO"
+            },
+            "taxonomies": [
+                {
+                    "code": "385H00000X",
+                    "taxonomy_group": "",
+                    "desc": "Respite Care",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "313M00000X",
+                    "taxonomy_group": "",
+                    "desc": "Nursing Facility/Intermediate Care Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": [
+                {
+                    "organization_name": "AUTUMN LAKE HEALTHCARE AT LONG GREEN",
+                    "type": "Doing Business As",
+                    "code": "3"
+                }
+            ]
+        },
+        {
+            "created_epoch": "1196187629000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1452279610000",
+            "number": "1083896542",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "101 E STATE ST",
+                    "city": "KENNETT SQUARE",
+                    "state": "PA",
+                    "postal_code": "193483109",
+                    "telephone_number": "610-925-4436",
+                    "fax_number": "610-925-4351"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "16 FUSTING AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212284413",
+                    "telephone_number": "410-747-1800",
+                    "fax_number": "410-747-0822"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "16 FUSTING AVENUE OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2007-11-27",
+                "last_updated": "2016-01-08",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": "MD",
+                    "license": "03-018",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "413980100",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1636650356000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1636650356000",
+            "number": "1659037943",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "1420 JOH AVE STE D",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212271073",
+                    "telephone_number": "443-435-0030"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1420 JOH AVE STE D",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212271073",
+                    "telephone_number": "443-435-0030"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "180 DEGREE CHANGE BEHAVIORAL HEALTH",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2021-11-11",
+                "last_updated": "2021-11-11",
+                "certification_date": "2021-11-11",
+                "status": "A",
+                "authorized_official_first_name": "LATISHA",
+                "authorized_official_last_name": "FLANIGAN",
+                "authorized_official_telephone_number": "4434350030",
+                "authorized_official_title_or_position": "CEO"
+            },
+            "taxonomies": [
+                {
+                    "code": "251S00000X",
+                    "taxonomy_group": "",
+                    "desc": "Community/Behavioral Health",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1637940689000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1637940689000",
+            "number": "1093472961",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "1420 JOH AVE STE D",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212271073",
+                    "telephone_number": "443-435-0030"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1420 JOH AVE STE D",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212271073",
+                    "telephone_number": "443-435-0030"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "180 DEGREE CHANGE BEHAVIORAL HEALTH LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2021-11-26",
+                "last_updated": "2021-11-26",
+                "certification_date": "2021-11-11",
+                "status": "A",
+                "authorized_official_first_name": "LATISHA",
+                "authorized_official_last_name": "FLANIGAN",
+                "authorized_official_telephone_number": "4434350030",
+                "authorized_official_title_or_position": "CEO"
+            },
+            "taxonomies": [
+                {
+                    "code": "251S00000X",
+                    "taxonomy_group": "",
+                    "desc": "Community/Behavioral Health",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1637940359000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1637940359000",
+            "number": "1821755794",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "1420 JOH AVE STE D",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212271073"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1420 JOH AVE STE D",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212271073",
+                    "telephone_number": "443-435-0030"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "180 DEGREE CHANGE BEHAVIORAL HEALTH LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2021-11-26",
+                "last_updated": "2021-11-26",
+                "certification_date": "2021-11-11",
+                "status": "A",
+                "authorized_official_first_name": "LATISHA",
+                "authorized_official_last_name": "FLANIGAN",
+                "authorized_official_telephone_number": "4434350030",
+                "authorized_official_title_or_position": "CEO"
+            },
+            "taxonomies": [
+                {
+                    "code": "251S00000X",
+                    "taxonomy_group": "",
+                    "desc": "Community/Behavioral Health",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1636648915000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1636648915000",
+            "number": "1336805613",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "1420 JOH AVE STE D",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212271073",
+                    "telephone_number": "443-435-0030"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1420 JOH AVE STE D",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212271073",
+                    "telephone_number": "443-435-0030"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "180 DEGREE CHANGE BEHAVIORAL HEALTH LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2021-11-11",
+                "last_updated": "2021-11-11",
+                "certification_date": "2021-11-11",
+                "status": "A",
+                "authorized_official_first_name": "LATISHA",
+                "authorized_official_last_name": "FLANIGAN",
+                "authorized_official_telephone_number": "4434350030",
+                "authorized_official_title_or_position": "CEO"
+            },
+            "taxonomies": [
+                {
+                    "code": "251S00000X",
+                    "taxonomy_group": "",
+                    "desc": "Community/Behavioral Health",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1616459105000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1616459105000",
+            "number": "1497331268",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "14C 53RD ST",
+                    "city": "BROOKLYN",
+                    "state": "NY",
+                    "postal_code": "112322644"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1801 WENTWORTH RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212346128",
+                    "telephone_number": "877-567-0402"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "1801 WENTWORTH OPCO LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2021-03-22",
+                "last_updated": "2021-03-22",
+                "certification_date": "2021-03-22",
+                "status": "A",
+                "authorized_official_first_name": "SAM",
+                "authorized_official_last_name": "STERN",
+                "authorized_official_telephone_number": "8775670402",
+                "authorized_official_title_or_position": "CFO"
+            },
+            "taxonomies": [
+                {
+                    "code": "385H00000X",
+                    "taxonomy_group": "",
+                    "desc": "Respite Care",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "313M00000X",
+                    "taxonomy_group": "",
+                    "desc": "Nursing Facility/Intermediate Care Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": [
+                {
+                    "organization_name": "AUTUMN LAKE HEALTHCARE AT PERRING PARKWAY",
+                    "type": "Doing Business As",
+                    "code": "3"
+                }
+            ]
+        },
+        {
+            "created_epoch": "1196189452000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1452286520000",
+            "number": "1467634931",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "101 E STATE ST",
+                    "city": "KENNETT SQUARE",
+                    "state": "PA",
+                    "postal_code": "193483109",
+                    "telephone_number": "610-925-4436",
+                    "fax_number": "610-925-4351"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1801 WENTWORTH RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212346128",
+                    "telephone_number": "410-661-5717",
+                    "fax_number": "410-668-4328"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "1801 WENTWORTH ROAD OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2007-11-27",
+                "last_updated": "2016-01-08",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": "MD",
+                    "license": "03-027",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "413971200",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1461265799000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1504806932000",
+            "number": "1528412996",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1801 WENTWORTH RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212346128",
+                    "telephone_number": "410-661-5717"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "1801 WENTWORTH RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212346128",
+                    "telephone_number": "410-661-5717"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "1801 WENTWORTH ROAD OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2016-04-21",
+                "last_updated": "2017-09-07",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "225X00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Occupational Therapist",
+                    "state": "MD",
+                    "license": "03027",
+                    "primary": false
+                },
+                {
+                    "code": "225100000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Physical Therapist",
+                    "state": "MD",
+                    "license": "03027",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "442157400",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1185475842000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1335547315000",
+            "number": "1831389824",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "1530 CATON CENTER DRIVE",
+                    "address_2": "SUITE D",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "21227",
+                    "telephone_number": "410-484-0153",
+                    "fax_number": "410-484-0171"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1530 CATON CENTER DRIVE",
+                    "address_2": "SUITE D",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "21227",
+                    "telephone_number": "410-484-0153",
+                    "fax_number": "410-484-0171"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "1ST RESPONSE MEDICAL TRANSPORT CORP.",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2007-07-26",
+                "last_updated": "2012-04-27",
+                "status": "A",
+                "authorized_official_first_name": "JOHN",
+                "authorized_official_last_name": "ORSINO",
+                "authorized_official_middle_name": "JASON",
+                "authorized_official_telephone_number": "4104840153",
+                "authorized_official_title_or_position": "Vice President",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "341600000X",
+                    "taxonomy_group": "",
+                    "desc": "Ambulance",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "341600000X",
+                    "taxonomy_group": "",
+                    "desc": "Ambulance",
+                    "state": "MD",
+                    "license": "AMBULANCE",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "416541100",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1507311760000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1507311760000",
+            "number": "1013427863",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "PO BOX 67254",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212150009"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "339 BLOOM ST",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212174598",
+                    "telephone_number": "301-494-3564"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "2 GOD B THE GLORY RECOVERY FAMILY CENTER",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2017-10-06",
+                "last_updated": "2017-10-06",
+                "status": "A",
+                "authorized_official_first_name": "ROWENA",
+                "authorized_official_last_name": "SIMMONS",
+                "authorized_official_telephone_number": "3014943564",
+                "authorized_official_title_or_position": "Executive Director",
+                "authorized_official_name_prefix": "Mrs."
+            },
+            "taxonomies": [
+                {
+                    "code": "251V00000X",
+                    "taxonomy_group": "",
+                    "desc": "Voluntary or Charitable",
+                    "state": null,
+                    "license": "25844",
+                    "primary": false
+                },
+                {
+                    "code": "1041C0700X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Social Worker, Clinical",
+                    "state": "MD",
+                    "license": "21583",
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1544476131000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1544476131000",
+            "number": "1295206787",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "339 BLOOM ST",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212174598",
+                    "telephone_number": "443-438-3616"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "339 BLOOM ST",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212174598",
+                    "telephone_number": "443-438-3616"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "2 GOD B THE GLORY, INC.",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2018-12-10",
+                "last_updated": "2018-12-10",
+                "status": "A",
+                "authorized_official_first_name": "ROWENA",
+                "authorized_official_last_name": "SIMMONS",
+                "authorized_official_telephone_number": "4438548700",
+                "authorized_official_title_or_position": "Executive Director",
+                "authorized_official_name_prefix": "Mrs."
+            },
+            "taxonomies": [
+                {
+                    "code": "171M00000X",
+                    "taxonomy_group": "193400000X - Single Specialty Group",
+                    "desc": "Case Manager/Care Coordinator",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "324500000X",
+                    "taxonomy_group": "",
+                    "desc": "Substance Abuse Rehabilitation Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": [
+                {
+                    "organization_name": "2 GOD B THE GLORY, INC.",
+                    "type": "Doing Business As",
+                    "code": "3"
+                }
+            ]
+        },
+        {
+            "created_epoch": "1681323871000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1681323871000",
+            "number": "1245926351",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "5500 GWYNN OAK AVE # 101-C",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212076676",
+                    "telephone_number": "443-868-5522",
+                    "fax_number": "410-826-3878"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "5500 GWYNN OAK AVE # 101-C",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212076676",
+                    "telephone_number": "443-868-5522",
+                    "fax_number": "410-826-3878"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "2 SISTERS HELPING HANDS, LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2023-04-12",
+                "last_updated": "2023-04-12",
+                "certification_date": "2023-04-12",
+                "status": "A",
+                "authorized_official_first_name": "SHAREE",
+                "authorized_official_last_name": "WEST",
+                "authorized_official_telephone_number": "4438685522",
+                "authorized_official_title_or_position": "CEO/Director"
+            },
+            "taxonomies": [
+                {
+                    "code": "253Z00000X",
+                    "taxonomy_group": "",
+                    "desc": "In Home Supportive Care",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1688783031000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1690912377000",
+            "number": "1013695113",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "5247 REISTERSTOWN RD 1ST FLOOR",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212155018",
+                    "telephone_number": "240-475-2325"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "5247 REISTERSTOWN RD FL 1",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212155018",
+                    "telephone_number": "240-475-2325"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "2ND JOURNEY LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2023-07-07",
+                "last_updated": "2023-08-01",
+                "certification_date": "2023-08-01",
+                "status": "A",
+                "authorized_official_first_name": "TERRI",
+                "authorized_official_last_name": "FIELDS",
+                "authorized_official_telephone_number": "4435676120",
+                "authorized_official_title_or_position": "Credentialing Consultant"
+            },
+            "taxonomies": [
+                {
+                    "code": "251S00000X",
+                    "taxonomy_group": "",
+                    "desc": "Community/Behavioral Health",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261QR0800X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Recovery Care",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261QR0405X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Rehabilitation, Substance Use Disorder",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1691166896000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1691166896000",
+            "number": "1821770264",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "5247 REISTERSTOWN RD FL 1",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212155018",
+                    "telephone_number": "240-475-2325"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "5247 REISTERSTOWN RD 1ST FLOOR",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212155018",
+                    "telephone_number": "240-475-2325"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "2ND JOURNEY LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2023-08-04",
+                "last_updated": "2023-08-04",
+                "certification_date": "2023-08-01",
+                "status": "A",
+                "authorized_official_first_name": "TERRI",
+                "authorized_official_last_name": "FIELDS",
+                "authorized_official_telephone_number": "4435676120",
+                "authorized_official_title_or_position": "Credentialing Consultant"
+            },
+            "taxonomies": [
+                {
+                    "code": "251S00000X",
+                    "taxonomy_group": "",
+                    "desc": "Community/Behavioral Health",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261QR0405X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Rehabilitation, Substance Use Disorder",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261QR0800X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Recovery Care",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1691166896000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1691168649000",
+            "number": "1730861170",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "5247 REISTERSTOWN RD 1ST FLOOR",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212155018",
+                    "telephone_number": "240-475-2325"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "5247 REISTERSTOWN RD FL 1",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212155018",
+                    "telephone_number": "240-475-2325"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "2ND JOURNEY LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2023-08-04",
+                "last_updated": "2023-08-04",
+                "certification_date": "2023-08-04",
+                "status": "A",
+                "authorized_official_first_name": "TERRI",
+                "authorized_official_last_name": "FIELDS",
+                "authorized_official_telephone_number": "4435676120",
+                "authorized_official_title_or_position": "Credentialing Consultant"
+            },
+            "taxonomies": [
+                {
+                    "code": "261QR0405X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Rehabilitation, Substance Use Disorder",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261QR0800X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Recovery Care",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "251S00000X",
+                    "taxonomy_group": "",
+                    "desc": "Community/Behavioral Health",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1461169886000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1504198042000",
+            "number": "1538513163",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "3330 WILKENS AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212294610",
+                    "telephone_number": "410-525-1544"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "3330 WILKENS AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212294610",
+                    "telephone_number": "410-525-1544"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "3330 WILKENS AVENUE OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2016-04-20",
+                "last_updated": "2017-08-31",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "225X00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Occupational Therapist",
+                    "state": "MD",
+                    "license": "30008",
+                    "primary": false
+                },
+                {
+                    "code": "225100000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Physical Therapist",
+                    "state": "MD",
+                    "license": "30008",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "330009900",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1297433246000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1520441436000",
+            "number": "1619274545",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "3330 WILKENS AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212294610",
+                    "telephone_number": "410-525-1544",
+                    "fax_number": "410-646-4779"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "101 E STATE ST",
+                    "city": "KENNETT SQUARE",
+                    "state": "PA",
+                    "postal_code": "193483109",
+                    "telephone_number": "610-925-4436",
+                    "fax_number": "610-347-4099"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "3330 WILKENS AVENUE OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2011-02-11",
+                "last_updated": "2018-03-07",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "235Z00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Speech-Language Pathologist,  ",
+                    "state": "MD",
+                    "license": "30008",
+                    "primary": false
+                },
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": "MD",
+                    "license": "30008",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "420461100",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1153162917000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1386952151000",
+            "number": "1467470930",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "200 E. 33RD ST",
+                    "address_2": "SUITE 631",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "21218",
+                    "telephone_number": "410-554-4455",
+                    "fax_number": "410-554-2839"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "200 E. 33RD ST.",
+                    "address_2": "SUITE 631",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "21218",
+                    "telephone_number": "410-554-4455",
+                    "fax_number": "410-554-2839"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "33RD STREET SURGERY CENTER LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2006-07-17",
+                "last_updated": "2013-12-13",
+                "status": "A",
+                "authorized_official_first_name": "ALAN",
+                "authorized_official_last_name": "SHIKANI",
+                "authorized_official_middle_name": "HENRY",
+                "authorized_official_telephone_number": "4105544455",
+                "authorized_official_title_or_position": "President/Owner",
+                "authorized_official_name_prefix": "Dr.",
+                "authorized_official_name_suffix": "--",
+                "authorized_official_credential": "M.D."
+            },
+            "taxonomies": [
+                {
+                    "code": "207Y00000X",
+                    "taxonomy_group": "193400000X - Multiple Single Specialty Group",
+                    "desc": "Otolaryngology",
+                    "state": "MD",
+                    "license": "D0057335",
+                    "primary": false
+                },
+                {
+                    "code": "207Y00000X",
+                    "taxonomy_group": "193400000X - Multiple Single Specialty Group",
+                    "desc": "Otolaryngology",
+                    "state": "MD",
+                    "license": "D35559",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "01",
+                    "desc": "Other (non-Medicare)",
+                    "issuer": "Aetna",
+                    "identifier": "0007456615",
+                    "state": "MD"
+                },
+                {
+                    "code": "01",
+                    "desc": "Other (non-Medicare)",
+                    "issuer": "Cigna",
+                    "identifier": "1356522",
+                    "state": "MD"
+                },
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "404565300",
+                    "state": "MD"
+                },
+                {
+                    "code": "01",
+                    "desc": "Other (non-Medicare)",
+                    "issuer": "MDIPA/Optimum Choice",
+                    "identifier": "7441931",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1595632405000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1595632405000",
+            "number": "1992314090",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "17 BENSMILL CT STE 117",
+                    "city": "REISTERSTOWN",
+                    "state": "MD",
+                    "postal_code": "211366459",
+                    "telephone_number": "407-712-4679"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "2010 CLIPPER PARK RD STE 117",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212111439",
+                    "telephone_number": "407-712-4679"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "360 REHABILITATION & CHIROPRACTIC LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2020-07-24",
+                "last_updated": "2020-07-24",
+                "certification_date": "2020-07-24",
+                "status": "A",
+                "authorized_official_first_name": "ANNA",
+                "authorized_official_last_name": "WELTY",
+                "authorized_official_telephone_number": "4077124679",
+                "authorized_official_title_or_position": "partner",
+                "authorized_official_name_prefix": "Dr.",
+                "authorized_official_credential": "DC"
+            },
+            "taxonomies": [
+                {
+                    "code": "111N00000X",
+                    "taxonomy_group": "193400000X - Single Specialty Group",
+                    "desc": "Chiropractor",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1577118552000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1577123104000",
+            "number": "1982243978",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "2446 N CHARLES ST",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212185113",
+                    "telephone_number": "410-413-6786",
+                    "fax_number": "410-413-6792"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "2446 N CHARLES ST",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212185113",
+                    "telephone_number": "410-413-6786",
+                    "fax_number": "410-413-6792"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "360 THERAPY GROUP LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2019-12-23",
+                "last_updated": "2019-12-23",
+                "certification_date": "2019-12-23",
+                "status": "A",
+                "authorized_official_first_name": "CHIMERE",
+                "authorized_official_last_name": "BECOTE",
+                "authorized_official_telephone_number": "4108059464",
+                "authorized_official_title_or_position": "Owner"
+            },
+            "taxonomies": [
+                {
+                    "code": "224Z00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Occupational Therapy Assistant",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "225100000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Physical Therapist",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "225200000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Physical Therapy Assistant",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "225X00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Occupational Therapist",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "2355S0801X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Specialist/Technologist, Speech-Language Assistant",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "235Z00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Speech-Language Pathologist,  ",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261Q00000X",
+                    "taxonomy_group": "",
+                    "desc": null,
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261QH0700X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Hearing and Speech",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261QP2000X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Physical Therapy",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261QX0100X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Occupational Medicine",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261QR0401X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Rehabilitation, Comprehensive Outpatient Rehabilitation Facility (CORF)",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1549490803000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1549490803000",
+            "number": "1750846465",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "302 PARK AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212013618",
+                    "telephone_number": "443-500-4887"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "302 PARK AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212013618",
+                    "telephone_number": "443-500-4887"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "4 2 RESTORE DRUG & ALCOHOL RECOVERY CENTER",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2019-02-06",
+                "last_updated": "2019-02-06",
+                "status": "A",
+                "authorized_official_first_name": "DEADRA",
+                "authorized_official_last_name": "MARTIN",
+                "authorized_official_middle_name": "MONIQUE",
+                "authorized_official_telephone_number": "4435004887",
+                "authorized_official_title_or_position": "CEO",
+                "authorized_official_name_prefix": "Dr.",
+                "authorized_official_credential": "PhD"
+            },
+            "taxonomies": [
+                {
+                    "code": "261QR0405X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Rehabilitation, Substance Use Disorder",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1597700487000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1623422122000",
+            "number": "1336751866",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "2506 ROSLYN AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212162214",
+                    "telephone_number": "410-701-9190",
+                    "fax_number": "410-901-7483"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "3527 N ROLLING RD STE 4",
+                    "city": "WINDSOR MILL",
+                    "state": "MD",
+                    "postal_code": "212442256",
+                    "telephone_number": "410-701-9190",
+                    "fax_number": "410-901-7483"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "4 2 RESTORE LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2020-08-17",
+                "last_updated": "2021-06-11",
+                "certification_date": "2021-06-11",
+                "status": "A",
+                "authorized_official_first_name": "DEADRA",
+                "authorized_official_last_name": "MARTIN",
+                "authorized_official_middle_name": "MONQIUE",
+                "authorized_official_telephone_number": "4107019190",
+                "authorized_official_title_or_position": "CEO"
+            },
+            "taxonomies": [
+                {
+                    "code": "324500000X",
+                    "taxonomy_group": "",
+                    "desc": "Substance Abuse Rehabilitation Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1521664136000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1591794843000",
+            "number": "1912401183",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "8310 LIBERTY RD STE 2C",
+                    "city": "WINDSOR MILL",
+                    "state": "MD",
+                    "postal_code": "212443124",
+                    "telephone_number": "443-500-4887"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "3527 N ROLLING RD STE 4",
+                    "city": "WINDSOR MILL",
+                    "state": "MD",
+                    "postal_code": "212442256",
+                    "telephone_number": "443-500-4887"
+                }
+            ],
+            "practiceLocations": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "8310 LIBERTY RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212443124",
+                    "telephone_number": "443-500-4887"
+                }
+            ],
+            "basic": {
+                "organization_name": "4 2 RESTORE, LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2018-03-21",
+                "last_updated": "2020-06-10",
+                "certification_date": "2020-06-10",
+                "status": "A",
+                "authorized_official_first_name": "DEADRA",
+                "authorized_official_last_name": "MARTIN",
+                "authorized_official_middle_name": "M",
+                "authorized_official_telephone_number": "4435004887",
+                "authorized_official_title_or_position": "Owner/Program Coordinator",
+                "authorized_official_name_prefix": "Dr.",
+                "authorized_official_credential": "PhD"
+            },
+            "taxonomies": [
+                {
+                    "code": "261QM0855X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Adolescent and Children Mental Health",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261QM0850X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Adult Mental Health",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1223598458000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1223598458000",
+            "number": "1407007289",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "6609 REISTERSTOWN RD",
+                    "address_2": "SUITE 104",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212152315",
+                    "telephone_number": "443-762-6949"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "6609 REISTERSTOWN RD",
+                    "address_2": "SUITE 104",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212152315",
+                    "telephone_number": "443-762-6949"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "4 WALLS HEALTH SERVICES INC.",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2008-10-09",
+                "last_updated": "2008-10-09",
+                "status": "A",
+                "authorized_official_first_name": "PAMELA",
+                "authorized_official_last_name": "GIBSON-JONES",
+                "authorized_official_middle_name": "ANDREA",
+                "authorized_official_telephone_number": "4437626949",
+                "authorized_official_title_or_position": "Clinical Director",
+                "authorized_official_name_prefix": "Mrs.",
+                "authorized_official_name_suffix": "--",
+                "authorized_official_credential": "CAC-AD"
+            },
+            "taxonomies": [
+                {
+                    "code": "261QR0401X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Rehabilitation, Comprehensive Outpatient Rehabilitation Facility (CORF)",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1196188480000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1452286312000",
+            "number": "1598947061",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "101 E STATE ST",
+                    "city": "KENNETT SQUARE",
+                    "state": "PA",
+                    "postal_code": "193483109",
+                    "telephone_number": "610-925-4436",
+                    "fax_number": "610-925-4351"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "6000 BELLONA AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212122922",
+                    "telephone_number": "410-323-4223",
+                    "fax_number": "410-323-6950"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "6000 BELLONA AVENUE OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2007-11-27",
+                "last_updated": "2016-01-08",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": "MD",
+                    "license": "30-016",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "413987900",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1461266519000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1504204953000",
+            "number": "1053765438",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "6000 BELLONA AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212122922",
+                    "telephone_number": "410-323-4223"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "6000 BELLONA AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212122922",
+                    "telephone_number": "410-323-4223"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "6000 BELLONA AVENUE OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2016-04-21",
+                "last_updated": "2017-08-31",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "225X00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Occupational Therapist",
+                    "state": "MD",
+                    "license": "30016",
+                    "primary": false
+                },
+                {
+                    "code": "225100000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Physical Therapist",
+                    "state": "MD",
+                    "license": "30016",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "445516900",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1616458906000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1616458906000",
+            "number": "1326624198",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "14C 53RD ST",
+                    "city": "BROOKLYN",
+                    "state": "NY",
+                    "postal_code": "112322644"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "6000 BELLONA AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212122922",
+                    "telephone_number": "877-567-0402"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "6000 BELLONA OPCO LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2021-03-22",
+                "last_updated": "2021-03-22",
+                "certification_date": "2021-03-22",
+                "status": "A",
+                "authorized_official_first_name": "SAM",
+                "authorized_official_last_name": "STERN",
+                "authorized_official_telephone_number": "8775670402",
+                "authorized_official_title_or_position": "CFO"
+            },
+            "taxonomies": [
+                {
+                    "code": "313M00000X",
+                    "taxonomy_group": "",
+                    "desc": "Nursing Facility/Intermediate Care Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "385H00000X",
+                    "taxonomy_group": "",
+                    "desc": "Respite Care",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": [
+                {
+                    "organization_name": "AUTUMN LAKE HEALTHCARE AT HOMEWOOD",
+                    "type": "Doing Business As",
+                    "code": "3"
+                }
+            ]
+        },
+        {
+            "created_epoch": "1297454739000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1297454739000",
+            "number": "1689971558",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "6040 HARFORD RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212141327",
+                    "telephone_number": "410-426-8855",
+                    "fax_number": "410-444-1260"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "6040 HARFORD RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212141327",
+                    "telephone_number": "410-426-8855",
+                    "fax_number": "410-444-1260"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "6040 HARFORD ROAD OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2011-02-11",
+                "last_updated": "2011-02-11",
+                "status": "A",
+                "authorized_official_first_name": "JANE",
+                "authorized_official_last_name": "DROPESKEY",
+                "authorized_official_telephone_number": "6109254231",
+                "authorized_official_title_or_position": "Corporate Manager",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": "MA",
+                    "license": "30025",
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1648066666000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1648066666000",
+            "number": "1538818695",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "14C 53RD ST",
+                    "city": "BROOKLYN",
+                    "state": "NY",
+                    "postal_code": "112322644",
+                    "telephone_number": "877-567-0402"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "6116 BELAIR RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212061927",
+                    "telephone_number": "410-426-1424"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "6116 BELAIR ROAD OPCO LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2022-03-23",
+                "last_updated": "2022-03-23",
+                "certification_date": "2022-03-23",
+                "status": "A",
+                "authorized_official_first_name": "SAM",
+                "authorized_official_last_name": "STERN",
+                "authorized_official_telephone_number": "8775670402",
+                "authorized_official_title_or_position": "CFO"
+            },
+            "taxonomies": [
+                {
+                    "code": "313M00000X",
+                    "taxonomy_group": "",
+                    "desc": "Nursing Facility/Intermediate Care Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "385H00000X",
+                    "taxonomy_group": "",
+                    "desc": "Respite Care",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": [
+                {
+                    "organization_name": "AUTUMN LAKE HEALTHCARE AT OVERLEA",
+                    "type": "Doing Business As",
+                    "code": "3"
+                }
+            ]
+        },
+        {
+            "created_epoch": "1616457909000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1616457909000",
+            "number": "1275119042",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "14C 53RD ST",
+                    "city": "BROOKLYN",
+                    "state": "NY",
+                    "postal_code": "112322644"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "8710 EMGE RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212343504",
+                    "telephone_number": "877-567-0402"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "8710 EMGE OPCO LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2021-03-22",
+                "last_updated": "2021-03-22",
+                "certification_date": "2021-03-22",
+                "status": "A",
+                "authorized_official_first_name": "SAM",
+                "authorized_official_last_name": "STERN",
+                "authorized_official_telephone_number": "8775670402",
+                "authorized_official_title_or_position": "CFO"
+            },
+            "taxonomies": [
+                {
+                    "code": "313M00000X",
+                    "taxonomy_group": "",
+                    "desc": "Nursing Facility/Intermediate Care Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "385H00000X",
+                    "taxonomy_group": "",
+                    "desc": "Respite Care",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": [
+                {
+                    "organization_name": "AUTUMN LAKE HEALTHCARE AT PARKVILLE",
+                    "type": "Doing Business As",
+                    "code": "3"
+                }
+            ]
+        },
+        {
+            "created_epoch": "1461266647000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1504199145000",
+            "number": "1780038166",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "8710 EMGE RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212343504",
+                    "telephone_number": "410-661-5955"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "8710 EMGE RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212343504",
+                    "telephone_number": "410-661-5955"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "8710 EMGE ROAD OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2016-04-21",
+                "last_updated": "2017-08-31",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "225X00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Occupational Therapist",
+                    "state": "MD",
+                    "license": "03056",
+                    "primary": false
+                },
+                {
+                    "code": "225100000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Physical Therapist",
+                    "state": "MD",
+                    "license": "03056",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "442231700",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1196188054000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1452286238000",
+            "number": "1063694529",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "101 E STATE ST",
+                    "city": "KENNETT SQUARE",
+                    "state": "PA",
+                    "postal_code": "193483109",
+                    "telephone_number": "610-925-4436"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "8710 EMGE RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212343504",
+                    "telephone_number": "410-661-5955",
+                    "fax_number": "410-661-6745"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "8710 EMGE ROAD OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2007-11-27",
+                "last_updated": "2016-01-08",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": "MD",
+                    "license": "03-056",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "413983600",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1616458912000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1616458912000",
+            "number": "1144806910",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "14C 53RD ST",
+                    "city": "BROOKLYN",
+                    "state": "NY",
+                    "postal_code": "112322644"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "8720 EMGE RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212343504",
+                    "telephone_number": "887-567-0402"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "8720 EMGE OPCO LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2021-03-22",
+                "last_updated": "2021-03-22",
+                "certification_date": "2021-03-22",
+                "status": "A",
+                "authorized_official_first_name": "SAM",
+                "authorized_official_last_name": "STERN",
+                "authorized_official_telephone_number": "8775670402",
+                "authorized_official_title_or_position": "CFO"
+            },
+            "taxonomies": [
+                {
+                    "code": "313M00000X",
+                    "taxonomy_group": "",
+                    "desc": "Nursing Facility/Intermediate Care Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "385H00000X",
+                    "taxonomy_group": "",
+                    "desc": "Respite Care",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": [
+                {
+                    "organization_name": "AUTUMN LAKE HEALTHCARE AT LOCH RAVEN",
+                    "type": "Doing Business As",
+                    "code": "3"
+                }
+            ]
+        },
+        {
+            "created_epoch": "1461266310000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1504801841000",
+            "number": "1326492794",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "8720 EMGE RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212343504",
+                    "telephone_number": "410-668-1961"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "8720 EMGE RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212343504",
+                    "telephone_number": "410-668-1961"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "8720 EMGE ROAD OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2016-04-21",
+                "last_updated": "2017-09-07",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "225X00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Occupational Therapist",
+                    "state": "MD",
+                    "license": "03044",
+                    "primary": false
+                },
+                {
+                    "code": "225100000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Physical Therapist",
+                    "state": "MD",
+                    "license": "03044",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "442154000",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1196189023000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1452286389000",
+            "number": "1023290590",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "101 E STATE ST",
+                    "city": "KENNETT SQUARE",
+                    "state": "PA",
+                    "postal_code": "193483109",
+                    "telephone_number": "610-925-4436",
+                    "fax_number": "610-925-4351"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "8720 EMGE RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212343504",
+                    "telephone_number": "410-668-1961",
+                    "fax_number": "410-882-3114"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "8720 EMGE ROAD OPERATIONS LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2007-11-27",
+                "last_updated": "2016-01-08",
+                "status": "A",
+                "authorized_official_first_name": "MICHAEL",
+                "authorized_official_last_name": "BERG",
+                "authorized_official_middle_name": "T.",
+                "authorized_official_telephone_number": "5054684752",
+                "authorized_official_title_or_position": "Assistant Secretary",
+                "authorized_official_name_prefix": "--",
+                "authorized_official_name_suffix": "--"
+            },
+            "taxonomies": [
+                {
+                    "code": "314000000X",
+                    "taxonomy_group": "",
+                    "desc": "Skilled Nursing Facility",
+                    "state": "MD",
+                    "license": "03-044",
+                    "primary": true
+                }
+            ],
+            "identifiers": [
+                {
+                    "code": "05",
+                    "desc": "MEDICAID",
+                    "issuer": null,
+                    "identifier": "413968200",
+                    "state": "MD"
+                }
+            ],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1199470367000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1618582871000",
+            "number": "1942485305",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "9106 PHILADELPHIA RD",
+                    "address_2": "SUITE 306",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "21237",
+                    "telephone_number": "410-687-2656",
+                    "fax_number": "410-687-3805"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "9106 PHILADELPHIA RD",
+                    "address_2": "SUITE 306",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "21237",
+                    "telephone_number": "410-687-2656",
+                    "fax_number": "410-687-3805"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "9106 PHILADELPHIA ROAD AMBULATORY SURGERY CENTER LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2008-01-04",
+                "last_updated": "2021-04-16",
+                "certification_date": "2021-04-16",
+                "status": "A",
+                "authorized_official_first_name": "GABRIEL",
+                "authorized_official_last_name": "MARTINEZ",
+                "authorized_official_telephone_number": "4106872656",
+                "authorized_official_title_or_position": "Owner/MD"
+            },
+            "taxonomies": [
+                {
+                    "code": "261Q00000X",
+                    "taxonomy_group": "",
+                    "desc": null,
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "261QA1903X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Ambulatory Surgical",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1687173439000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1687173439000",
+            "number": "1851076897",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "403 NOTTINGHAM RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212292439",
+                    "telephone_number": "954-234-4312"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "403 NOTTINGHAM RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212292439",
+                    "telephone_number": "954-234-4312"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "A & J MEDICAL SUPPLY CORP",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2023-06-19",
+                "last_updated": "2023-06-19",
+                "certification_date": "2023-06-17",
+                "status": "A",
+                "authorized_official_first_name": "JAMELLA",
+                "authorized_official_last_name": "WHITE",
+                "authorized_official_telephone_number": "9542344312",
+                "authorized_official_title_or_position": "Owner"
+            },
+            "taxonomies": [
+                {
+                    "code": "332BP3500X",
+                    "taxonomy_group": "",
+                    "desc": "Durable Medical Equipment & Medical Supplies, Parenteral & Enteral Nutrition",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [
+                {
+                    "endpointType": "OTHERS",
+                    "endpointTypeDescription": "Other URL",
+                    "endpoint": "aandjmedicalsupply@gmail.com",
+                    "affiliation": "N",
+                    "use": "DIRECT",
+                    "useDescription": "Direct",
+                    "contentTypeDescription": "",
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_type": "DOM",
+                    "address_1": "403 Nottingham Rd",
+                    "city": "Baltimore",
+                    "state": "MD",
+                    "postal_code": "212292439"
+                }
+            ],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1623211855000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1623211855000",
+            "number": "1518534411",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "1654 NORTHGATE RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212181650",
+                    "telephone_number": "443-854-9341"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1654 NORTHGATE RD",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212181650",
+                    "telephone_number": "443-854-9341"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "A BEAUTIFUL EXPERIENCE LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2021-06-09",
+                "last_updated": "2021-06-09",
+                "certification_date": "2021-06-08",
+                "status": "A",
+                "authorized_official_first_name": "RASHEEDA",
+                "authorized_official_last_name": "ALFORD",
+                "authorized_official_middle_name": "JAMEELAH",
+                "authorized_official_telephone_number": "4438549341",
+                "authorized_official_title_or_position": "Director",
+                "authorized_official_credential": "RN BSN, CHES, Doula"
+            },
+            "taxonomies": [
+                {
+                    "code": "172V00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Community Health Worker",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "174H00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Health Educator",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "174N00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Lactation Consultant, Non-RN",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "2472R0900X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": null,
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "163W00000X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Registered Nurse",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1651799792000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1651799792000",
+            "number": "1902542624",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "1802 EUTAW PL",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212173805",
+                    "telephone_number": "443-801-3134"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "1319 WOODBRIDGE STATION WAY STE 101",
+                    "city": "EDGEWOOD",
+                    "state": "MD",
+                    "postal_code": "210403852",
+                    "telephone_number": "443-961-7560"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "A BEAUTIFUL MIND LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2022-05-05",
+                "last_updated": "2022-05-05",
+                "certification_date": "2022-05-05",
+                "status": "A",
+                "authorized_official_first_name": "CAMILLE",
+                "authorized_official_last_name": "MATTHEWS",
+                "authorized_official_middle_name": "G.",
+                "authorized_official_telephone_number": "4107283737",
+                "authorized_official_title_or_position": "Owner/Operator"
+            },
+            "taxonomies": [
+                {
+                    "code": "251S00000X",
+                    "taxonomy_group": "",
+                    "desc": "Community/Behavioral Health",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1615907643000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1615907643000",
+            "number": "1821673385",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "1190 W NORTHERN PKWY APT 404",
+                    "city": "ROLAND PARK",
+                    "state": "MD",
+                    "postal_code": "212101453",
+                    "telephone_number": "443-762-7537"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "326 SAINT PAUL ST STE 400A",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212022176",
+                    "telephone_number": "443-762-7537"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "A BEAUTIFUL MIND: COUNSELING & WELLNESS STUDIO",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2021-03-16",
+                "last_updated": "2021-03-16",
+                "certification_date": "2021-03-16",
+                "status": "A",
+                "authorized_official_first_name": "ERICA",
+                "authorized_official_last_name": "KELLY",
+                "authorized_official_middle_name": "DANYELLE",
+                "authorized_official_telephone_number": "4437627537",
+                "authorized_official_title_or_position": "CEO",
+                "authorized_official_name_prefix": "Ms.",
+                "authorized_official_credential": "LCSW-C"
+            },
+            "taxonomies": [
+                {
+                    "code": "261QM0801X",
+                    "taxonomy_group": "",
+                    "desc": null,
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1534168514000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1616696621000",
+            "number": "1679052476",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "400 E PRATT ST, 8TH FLOOR",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "21202",
+                    "telephone_number": "443-651-9376"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "400 E PRATT ST, 8TH FLOOR",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "21202",
+                    "telephone_number": "443-651-9376"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "A BETTER YOU HEALTHCARE GROUP",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2018-08-13",
+                "last_updated": "2021-03-25",
+                "certification_date": "2021-03-23",
+                "status": "A",
+                "authorized_official_first_name": "DALILA",
+                "authorized_official_last_name": "MUIR",
+                "authorized_official_middle_name": "L",
+                "authorized_official_telephone_number": "4436519376",
+                "authorized_official_title_or_position": "Executive Director"
+            },
+            "taxonomies": [
+                {
+                    "code": "1041C0700X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Social Worker, Clinical",
+                    "state": null,
+                    "license": null,
+                    "primary": false
+                },
+                {
+                    "code": "101YM0800X",
+                    "taxonomy_group": "193200000X - Multi-Specialty Group",
+                    "desc": "Counselor, Mental Health",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        },
+        {
+            "created_epoch": "1560625638000",
+            "enumeration_type": "NPI-2",
+            "last_updated_epoch": "1686683824000",
+            "number": "1437719184",
+            "addresses": [
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "LOCATION",
+                    "address_type": "DOM",
+                    "address_1": "2003 SMITH AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212092707",
+                    "telephone_number": "443-418-5098"
+                },
+                {
+                    "country_code": "US",
+                    "country_name": "United States",
+                    "address_purpose": "MAILING",
+                    "address_type": "DOM",
+                    "address_1": "2003 SMITH AVE",
+                    "city": "BALTIMORE",
+                    "state": "MD",
+                    "postal_code": "212092707",
+                    "telephone_number": "443-418-5098"
+                }
+            ],
+            "practiceLocations": [],
+            "basic": {
+                "organization_name": "A CALM PLACE COUNSELING, LLC",
+                "organizational_subpart": "NO",
+                "enumeration_date": "2019-06-15",
+                "last_updated": "2023-06-13",
+                "certification_date": "2023-06-13",
+                "status": "A",
+                "authorized_official_first_name": "GEORGIA",
+                "authorized_official_last_name": "JENNINGS-DORSEY",
+                "authorized_official_middle_name": "MARIE",
+                "authorized_official_telephone_number": "4434185098",
+                "authorized_official_title_or_position": "President",
+                "authorized_official_name_prefix": "Dr.",
+                "authorized_official_credential": "LCSW-C"
+            },
+            "taxonomies": [
+                {
+                    "code": "261QM0850X",
+                    "taxonomy_group": "",
+                    "desc": "Clinic/Center, Adult Mental Health",
+                    "state": null,
+                    "license": null,
+                    "primary": true
+                }
+            ],
+            "identifiers": [],
+            "endpoints": [],
+            "other_names": []
+        }
+    ]
+}
