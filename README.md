@@ -31,8 +31,8 @@ The results table will only display basic information so user has the option to 
 ## Api Endpoints
 
 -   `/api/npi` - search npi registry by query params.
--     `(Requires at least one of params bellow)`
-    -   firstName 
+-       `(Requires at least one of params bellow)`
+    -   firstName
     -   lastName
     -   npiNumber
     -   taxonomyDescription
@@ -55,6 +55,7 @@ The results table will only display basic information so user has the option to 
 -   Add E2E/Unit/Components tests
 -   Add more validation to the request
 -   Limit to 1200
+-   Move details to a modal and use details from response
 
 ## Refactoring
 
