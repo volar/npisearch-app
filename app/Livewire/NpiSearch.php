@@ -7,24 +7,29 @@ use App\Http\Controllers\Controller;
 
 class NpiSearch extends Component
 {
-    public $jsonData;
-    public $results = [];
     public $query = [];
-    public $page = 1;
-    public $limit = 50;
-    public $skip = 0;
-    public $total = 0;
+    public $data = [];
 
     public function mount()
     {
-        $query = session('search_params', []);
-        //dd($query);
-        $this->query = $query;
+        $this->query = session('query', []);
+        $data = session('data');
+
+        if (isset($data['results'])) {
+            $this->data = $data['results'];
+        } else {
+            $this->data = [];
+        }  
+
+        //local data for testing
         //$jsonData = json_decode(file_get_contents('sampleData.json'), TRUE);
     }
 
     public function render()
     {
-        return view('livewire.npi-search');
+        return view('livewire.npi-search', [
+            'query' => $this->query,
+            'data' => $this->data,
+        ]);
     }
 }

@@ -15,7 +15,7 @@
         </div>
         <div class="col-md-9">
             {{-- Livewire Search Results Component --}}
-            @livewire('search-results', ['data' => $jsonData])
+            @livewire('search-results', ['data' => $data])
         </div>
     </div>
 </div>

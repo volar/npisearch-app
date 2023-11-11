@@ -29,8 +29,6 @@ class NpiSearchForm extends Component
     public $limit;
     public $skip;
 
-    public $results = [];
-
     public $formAlert = "";
 
     public $data = [];
@@ -48,7 +46,6 @@ class NpiSearchForm extends Component
     public function render()
     {
         return view('livewire.npi-search-form', [
-            'results' => $this->results,
             'formAlert' => $this->formAlert,
         ]);
     }
@@ -62,7 +59,7 @@ class NpiSearchForm extends Component
     {
         $this->reset();
         $this->resetValidation();
-        session()->forget('search_params');
+        session()->forget('query');
     }
 
     public function selectState($state)
@@ -93,26 +90,16 @@ class NpiSearchForm extends Component
             $dataResponse = $this->fetchData($query);
         }
 
-       
-
         //dd($dataResponse);
-        
         if (empty($dataResponse['results'])) {
-            session()->put('data', []);
             $this->formAlert = "Please modify your search criteria";
-            $this->results = [];
             return [];
         } else {
             $this->formAlert = "";
-            $this->results = $dataResponse['results'];
             $this->data = $dataResponse;
-            session()->put('data', $this->data);
         }
 
-            // Store search parameters in session
-        session()->put('search_params', $query);
-        return redirect()->route('search')->with('query', $query);
-        
+        return redirect()->route('search')->with(['data'=>$this->data, 'query'=>$query]);        
     }
 
     private function fetchData($params){
